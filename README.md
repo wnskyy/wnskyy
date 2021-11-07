@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @wnskyy
-
-<!---
-wnskyy/wnskyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# BruteFb
+HACK FACEBOOK DENGAN METODE BRUTEFORCE DI TERMUX
+# Cara Install
+### $ pkg update && pkg upgrade
+## $ pkg install git
+## $ pkg install python
+## $ pip install requests
+## $ pip install bs4
+## $ git clone https://github.com/FR13ND8/BruteFb
+## $ cd BruteFb
+## $ python fb.py
+# OK SEKIAN DARI GUA JANGAN LUPA KLIK BINTANG/STAR
